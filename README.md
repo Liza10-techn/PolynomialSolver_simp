@@ -1,4 +1,4 @@
-# PolynomialSolver_simplified
+Py # PolynomialSolver_simplified
 #installing sympy
 import sympy as sp
 from sympy import symbols,Eq,expand,simplify
